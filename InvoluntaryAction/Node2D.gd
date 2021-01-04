@@ -1,0 +1,3 @@
+extends Node2D
+
+var karl = "Karl is gay"
